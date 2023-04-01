@@ -1,4 +1,4 @@
-## Hello World!
+## Hello!
 <a href="https://olawaleawe@gmail.com">
   <img align="left" alt="Olawale Awe | gmail" width="22px" src="email.png" />
 </a>
