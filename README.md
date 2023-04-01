@@ -1,6 +1,6 @@
 ## Hello World!
 <a href="https://olawaleawe@gmail.com">
-  <img align="left" alt="Olawale Awe | gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />
+  <img align="left" alt="Olawale Awe | gmail" width="22px" src="email.png" />
 </a>
 <a href="https://www.linkedin.com/in/o-olawale-awe-phd/">
   <img align="left" alt="My  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
