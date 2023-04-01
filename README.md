@@ -1,4 +1,4 @@
-### hey there 
+### Hello World!
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Olawale Awe](https://olawaleawe.github.io/olawaleawe-gitub.io/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello, i'm [Olawale Awe](https://olawaleawe.github.io/olawaleawe-gitub.io/), an experienced Data Scientist with a demonstrated history of working in the education management industry. Skilled in Modelling, Machine Learning, Data Analysis, Public Speaking, Statistics, Research, and Management. I am an active data science professional with a Master of Business Administration and a PhD in Statistics.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
