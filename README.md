@@ -12,7 +12,7 @@
 
 Hello, i'm [Olawale Awe](https://olawaleawe.github.io/olawaleawe-gitub.io/), an experienced Data Scientist with a demonstrated history of working in the education management industry. Skilled in Modelling, Machine Learning, Data Analysis, Public Speaking, Statistics, Research, and Management. I am an active data science professional with a Master of Business Administration and a PhD in Statistics.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
